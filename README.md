@@ -1,4 +1,4 @@
-# MY FIRST WEB PAGE
+# CALCULATOR APP
 #### The Calculator App 24th April
 #### By **Leo Igane Owen Muriithi Mercy Rigua Naftal Tedy**
 ## Description
